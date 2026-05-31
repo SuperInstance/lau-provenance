@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Provenance system for the LAU construct — every decision is documented, rewindable, and queryable"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-provenance"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
